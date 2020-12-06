@@ -2,7 +2,7 @@
 
 This is an application that uses API to connect to google and search books online. Work in progress.
 
-# Getting Started with DineNow
+# Getting Started with Google Books Search
 1: Install node.js if you have not already.
 2: Open with any terminal or integrated terminal in Vscodium/Vscode.
 
